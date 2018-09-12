@@ -11,7 +11,6 @@ import java.util.concurrent.ThreadLocalRandom;
  * A class that generates and allows programmatic exploration of a maze.
  */
 public class Maze {
-
     /**
      * Exception for bad direction inputs.
      */
